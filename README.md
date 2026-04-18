@@ -6,7 +6,7 @@ Play any black and white video on ESP32 with SSD1306 OLED display.
 
 **Original Project**: Based on [ESP32_BadApple by Hackerspace-FFM](https://github.com/hackffm/ESP32_BadApple)
 
-![Video Display on ESP32](./images/star%20animation.png)
+![Video Display on ESP32](./images/star%20animation.jpg)
 
 ## Hardware Setup
 
